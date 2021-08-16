@@ -1,6 +1,8 @@
-![TriScale_logo](triscale_logo.svg)
+![TriScale_logo](img/triscale_logo.svg)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romain-jacob/triscale/master) 
+
+[Tutorial](pages/tutorial.md)
 
 ---
 > Have you followed one of our tutorials on TriScale?  
