@@ -4,6 +4,10 @@
 
 [Tutorial](pages/tutorial.md)
 
+asdasd
+asdasd
+
+
 ---
 > Have you followed one of our tutorials on TriScale?  
 > We would love to hear what you thought about it!  
