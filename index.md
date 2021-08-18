@@ -1,21 +1,60 @@
 ![TriScale_logo](img/triscale_logo.svg)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romain-jacob/triscale/master) 
-
-[Tutorial](pages/tutorial.md)
-
-asdasd
-asdasd
-
+## A Framework Supporting Replicable Performance Evaluations in Networking
 
 ---
-> Have you followed one of our tutorials on TriScale?  
-> We would love to hear what you thought about it!  
->   
-> 👇  Please fill out this short survey  🙏   
->   
-> [![TriScale_survey](https://img.shields.io/badge/feedback-tutorial-brightgreen)](https://docs.google.com/forms/d/e/1FAIpQLScYvkl8D_F6RhVL9qvAoXud6BCWNHiMk00WulEN44JM0tAFhg/viewform?usp=sf_link)
+[![paper](https://img.shields.io/badge/_-Paper-orange?logo=adobeacrobatreader)](https://doi.org/10.5281/zenodo.3464273)&#8195;
+[![code](https://img.shields.io/badge/_-Code-orange?logo=github)](https://github.com/romain-jacob/triscale)&#8195;
+[![tutorial](https://img.shields.io/badge/-Tutorial-orange?logo=googleclassroom)](tutorial.md)&#8195;
+[![group](https://img.shields.io/badge/-Discussion-orange?logo=googlechat)](https://groups.google.com/g/triscale)
+<!--![docs](https://img.shields.io/badge/-Documentation-orange?logo=googlesheets)-->
 ---
+
+When designing their performance evaluations, networking researchers often encounter questions such as: How long should a run be? How many runs to perform? How to account for the variability across multiple runs? What statistical methods should be used to analyze the data? Despite the best intentions, researchers often answer these questions differently, thus impairing the replicability of evaluations and the confidence in the results.
+
+Improving the standards of replicability in networking has recently gained traction within the community. As an important piece of the puzzle, we have developed a systematic methodology that streamlines the design and analysis of performance evaluations, and we have implemented this methodology into a framework called TriScale.
+
+## One-minute pitch video
+
+To add once we have it
+
+## People 
+
+- Romain Jacob &#8195;
+![lead](https://img.shields.io/badge/_-lead-blue)
+- Marco Zimmerling
+- Carlo Alberto Boano
+- Laurent Vanbever
+- Lothar Thiele
+
+## How to cite _TriScale_
+
+```
+@proceedings{romain_jacob_2021_5211642,
+  title        = {Designing Replicable Networking Experiments with 
+                   TriScale},
+  author       = {Jacob, Romain and Zimmerling, Marco and Boano, Carlo Alberto and Vanbever, Laurent and Thiele, Lothar},
+  year         = 2021,
+  publisher    = {Zenodo},
+  month        = aug,
+  doi          = {10.5281/zenodo.5211642},
+  url          = {https://doi.org/10.5281/zenodo.5211642}
+}
+```
+
+[Contact us](https://groups.google.com/g/triscale)
+
+
+
+
+
+
+--- 
+
+--- 
+
+
+
 
 This repository contains an implementation of _TriScale_ a framework supporting reproducible performance evaluations in networking. _TriScale_ is described in details in the following paper
 > _TriScale: A Framework Supporting Replicable Performance Evaluations Networking_  
