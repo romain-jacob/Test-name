@@ -3,10 +3,10 @@
 ## A Framework Supporting Replicable Performance Evaluations in Networking
 
 ---
-[![paper](https://img.shields.io/badge/_-Paper-orange?logo=adobeacrobatreader)](https://doi.org/10.5281/zenodo.3464273)&#8195;
-[![code](https://img.shields.io/badge/_-Code-orange?logo=github)](https://github.com/romain-jacob/triscale)&#8195;
-[![tutorial](https://img.shields.io/badge/-Tutorial-orange?logo=googleclassroom)](tutorial.md)&#8195;
-[![group](https://img.shields.io/badge/-Discussion-orange?logo=googlechat)](https://groups.google.com/g/triscale)
+[![paper](https://img.shields.io/badge/_-Paper-blue?logo=adobeacrobatreader)](https://doi.org/10.5281/zenodo.3464273)&nbsp;&nbsp;
+[![code](https://img.shields.io/badge/_-Code-blue?logo=github)](https://github.com/romain-jacob/triscale)&nbsp;&nbsp;
+[![tutorial](https://img.shields.io/badge/-Tutorial-lightgrey?logo=googleclassroom)](tutorial.md)&nbsp;&nbsp;
+[![group](https://img.shields.io/badge/-Discussion-lightgrey?logo=googlechat)](https://groups.google.com/g/triscale)
 <!--![docs](https://img.shields.io/badge/-Documentation-orange?logo=googlesheets)-->
 ---
 
