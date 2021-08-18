@@ -8,6 +8,7 @@
 [![tutorial](https://img.shields.io/badge/-Tutorial-blue?logo=googleclassroom)](tutorial.md)&nbsp;&nbsp;
 [![group](https://img.shields.io/badge/-Discussion-blue?logo=googlechat)](https://groups.google.com/g/triscale)
 <!--![docs](https://img.shields.io/badge/-Documentation-orange?logo=googlesheets)-->
+
 ---
 
 When designing their performance evaluations, networking researchers often encounter questions such as: How long should a run be? How many runs to perform? How to account for the variability across multiple runs? What statistical methods should be used to analyze the data? Despite the best intentions, researchers often answer these questions differently, thus impairing the replicability of evaluations and the confidence in the results.
@@ -24,12 +25,15 @@ Improving the standards of replicability in networking has recently gained tract
 
 ## People 
 
-- Romain Jacob &#8195;
-![lead](https://img.shields.io/badge/_-lead-blue)
-- Marco Zimmerling
-- Carlo Alberto Boano
-- Laurent Vanbever
-- Lothar Thiele
+
+
+|People||
+|---|---|
+|[Romain Jacob](https://romainjacob.net)|[![orcid](https://img.shields.io/badge/_-_-grey?logo=orcid&logoWidth=25)](https://groups.google.com/g/triscale) &nbsp; ![lead](https://img.shields.io/badge/_-lead-blue)|
+|[Marco Zimmerling](https://wwwpub.zih.tu-dresden.de/~mzimmerl/)|[![orcid](https://img.shields.io/badge/_-_-grey?logo=orcid&logoWidth=25)](https://groups.google.com/g/triscale)|
+|[Carlo Alberto Boano](http://www.carloalbertoboano.com/)|![](https://zenodo.org/static/img/orcid.png)|
+|[Laurent Vanbever](https://vanbever.eu/)||
+|[Lothar Thiele](https://people.ee.ethz.ch/~thiele/)||
 
 ## How to cite _TriScale_
 
