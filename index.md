@@ -34,7 +34,7 @@ All data, code and information required to reproduce our study are openly availa
 
 > We use Jupyter notebooks as wrappers for all our analyses. You can reproduce the paper results by running the notebooks locally or directly in your web-browser, thanks to the amazing service provided by [MyBinder.org](https://mybinder.org/)!
 
-See the [`README.md` file on GitHub](https://github.com/romain-jacob/triscale) for detailed instructions.
+See the [`README.md` file on GitHub](https://github.com/romain-jacob/triscale/blob/master/README.md) for detailed instructions.
 
 ### Presentations
 
