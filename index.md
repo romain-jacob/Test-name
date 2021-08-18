@@ -5,8 +5,8 @@
 ---
 [![paper](https://img.shields.io/badge/_-Paper-blue?logo=adobeacrobatreader)](https://doi.org/10.5281/zenodo.3464273)&nbsp;&nbsp;
 [![code](https://img.shields.io/badge/_-Code-blue?logo=github)](https://github.com/romain-jacob/triscale)&nbsp;&nbsp;
-[![tutorial](https://img.shields.io/badge/-Tutorial-lightgrey?logo=googleclassroom)](tutorial.md)&nbsp;&nbsp;
-[![group](https://img.shields.io/badge/-Discussion-lightgrey?logo=googlechat)](https://groups.google.com/g/triscale)
+[![tutorial](https://img.shields.io/badge/-Tutorial-blue?logo=googleclassroom)](tutorial.md)&nbsp;&nbsp;
+[![group](https://img.shields.io/badge/-Discussion-blue?logo=googlechat)](https://groups.google.com/g/triscale)
 <!--![docs](https://img.shields.io/badge/-Documentation-orange?logo=googlesheets)-->
 ---
 
@@ -16,7 +16,11 @@ Improving the standards of replicability in networking has recently gained tract
 
 ## One-minute pitch video
 
-To add once we have it
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TVCbTMk64mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
 
 ## People 
 
