@@ -34,7 +34,7 @@ sdfsdf
 ### How to cite _TriScale_
 
 ```
-@proceedings{romain_jacob_2021_5211642,
+@proceedings{jacob2021triscale,
   title        = {Designing Replicable Networking Experiments with 
                    TriScale},
   author       = {Jacob, Romain and Zimmerling, Marco and Boano, Carlo Alberto and Vanbever, Laurent and Thiele, Lothar},
