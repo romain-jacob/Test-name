@@ -59,20 +59,6 @@ Time to do better than "Believe me, it’s true!"](https://osf.io/aktn7/)
 EWSN Conference, Lyon, France (February 2020)  
 [![slides](https://img.shields.io/badge/-Slides-blue?logo=airplayvideo)](https://osf.io/aktn7/)
 
-
-### test
-
-
-- Research replicability in embedded learning  
-**Upcoming** ESWEEK Education, Virtual (October 2021)  
-
-- Tutorial: Supporting Replicable Networking Experiments with TriScale  
-**Upcoming** ACM SIGCOMM 2021, Virtual (August 2021)  
-
-- [Tutorial: Supporting Replicable Networking Experiments with TriScale](https://youtu.be/f9k7gS-QpWI)  
-4th CPS-IoTBench Workshop, Virtual (May 2021)  
-[![video](https://img.shields.io/badge/-Video-blue?logo=youtube)](https://youtu.be/f9k7gS-QpWI)
-
 ### How to cite _TriScale_
 
 ```bibtex
