@@ -21,13 +21,7 @@ Improving the standards of replicability in networking has recently gained tract
 </figure>
 <!-- blank line -->
 
-|People||
-|---|---|
-|[Romain Jacob](https://romainjacob.net)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0002-2218-5750) &nbsp; ![lead](https://img.shields.io/badge/_-lead-blue)|
-|[Marco Zimmerling](https://wwwpub.zih.tu-dresden.de/~mzimmerl/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0003-1450-2506)|
-|[Carlo Alberto Boano](http://www.carloalbertoboano.com/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0001-7647-3734)|
-|[Laurent Vanbever](https://vanbever.eu/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0003-1455-4381)|
-|[Lothar Thiele](https://people.ee.ethz.ch/~thiele/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0001-6139-868X)|
+### Reproduce our study
 
 ### How to cite _TriScale_
 
@@ -44,6 +38,15 @@ Improving the standards of replicability in networking has recently gained tract
 }
 ```
 
+|People||
+|---|---|
+|[Romain Jacob](https://romainjacob.net)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0002-2218-5750) &nbsp; ![lead](https://img.shields.io/badge/_-lead-blue)|
+|[Marco Zimmerling](https://wwwpub.zih.tu-dresden.de/~mzimmerl/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0003-1450-2506)|
+|[Carlo Alberto Boano](http://www.carloalbertoboano.com/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0001-7647-3734)|
+|[Laurent Vanbever](https://vanbever.eu/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0003-1455-4381)|
+|[Lothar Thiele](https://people.ee.ethz.ch/~thiele/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0001-6139-868X)|
+
+---
 [Contact us](https://groups.google.com/g/triscale)
 
 
