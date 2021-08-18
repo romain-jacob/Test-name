@@ -16,7 +16,7 @@ When designing their performance evaluations, networking researchers often encou
 Improving the standards of replicability in networking has recently gained traction within the community. As an important piece of the puzzle, we have developed a systematic methodology that streamlines the design and analysis of performance evaluations, and we have implemented this methodology into a framework called TriScale.
 
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video_container" style="margin-inline-start: 0px;">
   <iframe width="420" height="320" src="https://www.youtube.com/embed/TVCbTMk64mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
