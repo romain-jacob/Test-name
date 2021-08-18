@@ -15,27 +15,21 @@ When designing their performance evaluations, networking researchers often encou
 
 Improving the standards of replicability in networking has recently gained traction within the community. As an important piece of the puzzle, we have developed a systematic methodology that streamlines the design and analysis of performance evaluations, and we have implemented this methodology into a framework called TriScale.
 
-## One-minute pitch video
-
 <!-- blank line -->
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TVCbTMk64mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 
-## People 
-
-
-
 |People||
 |---|---|
-|[Romain Jacob](https://romainjacob.net)|[![orcid](https://img.shields.io/badge/_-_-grey?logo=orcid&logoWidth=25)](https://groups.google.com/g/triscale) &nbsp; ![lead](https://img.shields.io/badge/_-lead-blue)|
-|[Marco Zimmerling](https://wwwpub.zih.tu-dresden.de/~mzimmerl/)|[![orcid](https://img.shields.io/badge/_-_-grey?logo=orcid&logoWidth=25)](https://groups.google.com/g/triscale)|
-|[Carlo Alberto Boano](http://www.carloalbertoboano.com/)|![](https://zenodo.org/static/img/orcid.png)|
-|[Laurent Vanbever](https://vanbever.eu/)||
-|[Lothar Thiele](https://people.ee.ethz.ch/~thiele/)||
+|[Romain Jacob](https://romainjacob.net)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0002-2218-5750) &nbsp; ![lead](https://img.shields.io/badge/_-lead-blue)|
+|[Marco Zimmerling](https://wwwpub.zih.tu-dresden.de/~mzimmerl/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0003-1450-2506)|
+|[Carlo Alberto Boano](http://www.carloalbertoboano.com/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0001-7647-3734)|
+|[Laurent Vanbever](https://vanbever.eu/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0003-1455-4381)|
+|[Lothar Thiele](https://people.ee.ethz.ch/~thiele/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0001-6139-868X)|
 
-## How to cite _TriScale_
+### How to cite _TriScale_
 
 ```
 @proceedings{romain_jacob_2021_5211642,
