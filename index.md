@@ -3,25 +3,33 @@
 ## A Framework Supporting Replicable Performance Evaluations in Networking
 
 ---
-[![paper](https://img.shields.io/badge/_-Paper-blue?logo=openaccess)](https://doi.org/10.5281/zenodo.3464273)&nbsp;&nbsp;
+[![paper](https://img.shields.io/badge/_-Paper-blue?logo=adobeacrobatreader)](https://doi.org/10.5281/zenodo.3464273)&nbsp;&nbsp;
 [![code](https://img.shields.io/badge/_-Code-blue?logo=github)](https://github.com/romain-jacob/triscale)&nbsp;&nbsp;
-[![tutorial](https://img.shields.io/badge/-Tutorial-blue?logo=googleclassroom)](tutorial.md)&nbsp;&nbsp;
+[![tutorial](https://img.shields.io/badge/-Tutorial-blue?logo=airplayvideo)](tutorial.md)&nbsp;&nbsp;
 [![group](https://img.shields.io/badge/-Discussion-blue?logo=theconversation)](https://groups.google.com/g/triscale)
 <!--![docs](https://img.shields.io/badge/-Documentation-orange?logo=googlesheets)-->
 
 ---
 
-When designing their performance evaluations, networking researchers often encounter questions such as: How long should a run be? How many runs to perform? How to account for the variability across multiple runs? What statistical methods should be used to analyze the data? Despite the best intentions, researchers often answer these questions differently, thus impairing the replicability of evaluations and the confidence in the results.
+When designing their performance evaluations, networking researchers often encounter questions such as: 
+- How long should a run be? 
+- How many runs to perform? 
+- How to account for the variability across multiple runs? 
+- What statistical methods should be used to analyze the data? 
 
-Improving the standards of replicability in networking has recently gained traction within the community. As an important piece of the puzzle, we have developed a systematic methodology that streamlines the design and analysis of performance evaluations, and we have implemented this methodology into a framework called TriScale.
+Despite the best intentions, researchers often answer these questions differently, thus impairing the replicability of evaluations and the confidence in the results.
+
+Improving the standards of replicability has recently gained traction overall, as well as within the networking community. As an important piece of the puzzle, we developed a systematic methodology that streamlines the design and analysis of performance evaluations, and we have implemented this methodology into a framework called _TriScale_.
 
 <!-- blank line -->
 <figure class="video_container" style="margin-inline-start: 0px; margin-inline-end: 0px;">
-  <iframe width="500" height="400" src="https://www.youtube.com/embed/TVCbTMk64mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="500" height="340" src="https://www.youtube.com/embed/TVCbTMk64mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 
 ### Reproduce our study
+
+sdfsdf
 
 ### How to cite _TriScale_
 
