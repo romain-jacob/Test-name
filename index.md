@@ -5,7 +5,7 @@
 ---
 [![paper](https://img.shields.io/badge/_-Paper-blue?logo=adobeacrobatreader)](https://doi.org/10.5281/zenodo.3464273)&nbsp;&nbsp;
 [![code](https://img.shields.io/badge/_-Code-blue?logo=github)](https://github.com/romain-jacob/triscale)&nbsp;&nbsp;
-[![tutorial](https://img.shields.io/badge/-Tutorial-blue?logo=airplayvideo)](tutorial.md)&nbsp;&nbsp;
+[![tutorial](https://img.shields.io/badge/-Tutorial-blue?logo=airplayvideo)](https://github.com/romain-jacob/triscale/blob/master/tutorial/README.md)&nbsp;&nbsp;
 [![group](https://img.shields.io/badge/-Discussion-blue?logo=theconversation)](https://groups.google.com/g/triscale)
 <!--![docs](https://img.shields.io/badge/-Documentation-orange?logo=googlesheets)-->
 
@@ -76,7 +76,7 @@ EWSN Conference, Lyon, France (February 2020)
 
 |People||
 |---|---|
-|[Romain Jacob](https://romainjacob.net)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0002-2218-5750) &nbsp; ![lead](https://img.shields.io/badge/_-lead-blue)|
+|[Romain Jacob](https://romainjacob.net)&nbsp; ![lead](https://img.shields.io/badge/_-lead-blue)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0002-2218-5750)|
 |[Marco Zimmerling](https://wwwpub.zih.tu-dresden.de/~mzimmerl/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0003-1450-2506)|
 |[Carlo Alberto Boano](http://www.carloalbertoboano.com/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0001-7647-3734)|
 |[Laurent Vanbever](https://vanbever.eu/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0003-1455-4381)|
