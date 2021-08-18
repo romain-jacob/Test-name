@@ -46,16 +46,15 @@ See the [`README.md` file on GitHub](https://github.com/romain-jacob/triscale) f
 **Upcoming** ACM SIGCOMM 2021, Virtual (August 2021)  
 
 > IoTBench: Reproducibility challenge in wireless networking research  
-[![slides](https://img.shields.io/badge/-Slides-blue?logo=airplayvideo)](https://osf.io/aktn7/)
+5th CROSS Symposium, Virtual (October 2020)  
+[![slides](https://img.shields.io/badge/-Slides-blue?logo=airplayvideo)](https://osf.io/aktn7/)&nbsp;
 [![video](https://img.shields.io/badge/-Video-blue?logo=youtube)](https://osf.io/aktn7/)  
-5th CROSS Symposium, Virtual (October 2020)
 
-> Confidence in experimental evaluations:  
-Time to do better than "Believe me, it’s true!"  
-[![slides](https://img.shields.io/badge/-Slides-lightgrey?logo=airplayvideo)](https://osf.io/aktn7/)
-[![video](https://img.shields.io/badge/-Video-lightgrey?logo=youtube)](https://osf.io/aktn7/)  
-EWSN Conference, Lyon, France (February 2020)
-
+> **Confidence in experimental evaluations:  
+Time to do better than "Believe me, it’s true!"**  
+EWSN Conference, Lyon, France (February 2020)  
+[![slides](https://img.shields.io/badge/-Slides-blue?logo=airplayvideo)](https://osf.io/aktn7/)&nbsp;
+[![video](https://img.shields.io/badge/-Video-blue?logo=youtube)](https://osf.io/aktn7/)  
 
 ### How to cite _TriScale_
 
@@ -80,7 +79,6 @@ EWSN Conference, Lyon, France (February 2020)
 |[Laurent Vanbever](https://vanbever.eu/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0003-1455-4381)|
 |[Lothar Thiele](https://people.ee.ethz.ch/~thiele/)|[![orcid](https://zenodo.org/static/img/orcid.png)](https://orcid.org/0000-0001-6139-868X)|
 
----
 [Contact us](https://groups.google.com/g/triscale)
 
 
