@@ -45,10 +45,15 @@ See the [`README.md` file on GitHub](https://github.com/romain-jacob/triscale) f
 4th CPS-IoTBench Workshop, Virtual (May 2021)  
 **Upcoming** ACM SIGCOMM 2021, Virtual (August 2021)  
 
-> [IoTBench: Reproducibility challenge in wireless networking research](https://osf.io/m7a6w/)  
+> IoTBench: Reproducibility challenge in wireless networking research  
+[![slides](https://img.shields.io/badge/-Slides-blue?logo=airplayvideo)](https://osf.io/aktn7/)
+[![video](https://img.shields.io/badge/-Video-blue?logo=youtube)](https://osf.io/aktn7/)  
 5th CROSS Symposium, Virtual (October 2020)
 
-> [Confidence in experimental evaluations: Time to do better than "Believe me, it’s true!"](https://osf.io/aktn7/)  
+> Confidence in experimental evaluations:  
+Time to do better than "Believe me, it’s true!"  
+[![slides](https://img.shields.io/badge/-Slides-lightgrey?logo=airplayvideo)](https://osf.io/aktn7/)
+[![video](https://img.shields.io/badge/-Video-lightgrey?logo=youtube)](https://osf.io/aktn7/)  
 EWSN Conference, Lyon, France (February 2020)
 
 
@@ -79,7 +84,7 @@ EWSN Conference, Lyon, France (February 2020)
 [Contact us](https://groups.google.com/g/triscale)
 
 
-
+<!--
 
 
 
@@ -193,3 +198,4 @@ The scalability evaluation of _TriScale_ can be reproduced by running the `trisc
 
 - [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg) ](https://nbviewer.jupyter.org/github/romain-jacob/triscale/blob/master/triscale_scalability.ipynb)  
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romain-jacob/triscale/master?filepath=triscale_scalability.ipynb)
+-->
