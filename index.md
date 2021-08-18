@@ -1,13 +1,3 @@
-<head>
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
-</head>
-
 ![TriScale_logo](img/triscale_logo.svg)
 
 ## A Framework Supporting Replicable Performance Evaluations in Networking
@@ -48,6 +38,8 @@ See the [`README.md` file on GitHub](https://github.com/romain-jacob/triscale) f
 
 ### Presentations
 
+For more resources, check out the _TriScale_'s [tutorial page](tutorial.md).
+
 > Research replicability in embedded learning  
 **Upcoming** ESWEEK Education, Virtual (October 2021)  
 
@@ -66,6 +58,20 @@ See the [`README.md` file on GitHub](https://github.com/romain-jacob/triscale) f
 Time to do better than "Believe me, it’s true!"](https://osf.io/aktn7/)  
 EWSN Conference, Lyon, France (February 2020)  
 [![slides](https://img.shields.io/badge/-Slides-blue?logo=airplayvideo)](https://osf.io/aktn7/)
+
+
+### test
+
+
+- Research replicability in embedded learning  
+**Upcoming** ESWEEK Education, Virtual (October 2021)  
+
+- Tutorial: Supporting Replicable Networking Experiments with TriScale  
+**Upcoming** ACM SIGCOMM 2021, Virtual (August 2021)  
+
+- [Tutorial: Supporting Replicable Networking Experiments with TriScale](https://youtu.be/f9k7gS-QpWI)  
+4th CPS-IoTBench Workshop, Virtual (May 2021)  
+[![video](https://img.shields.io/badge/-Video-blue?logo=youtube)](https://youtu.be/f9k7gS-QpWI)
 
 ### How to cite _TriScale_
 
