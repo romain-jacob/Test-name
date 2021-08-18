@@ -29,11 +29,16 @@ Improving the standards of replicability has recently gained traction overall, a
 
 ### Reproduce our study
 
-sdfsdf
+All data, code and information required to reproduce our study are openly available [on GitHub](https://github.com/romain-jacob/triscale). 
+
+We use Jupyter notebooks as wrappers for all our analyses. You can reproduce the paper results by running the notebooks locally or directly in your web-browser 
+(thanks to the amazing service provided by [MyBinder.org](https://mybinder.org/) !
+
+See the [`README.md` file on GitHub](https://github.com/romain-jacob/triscale) for detailed instructions.
 
 ### How to cite _TriScale_
 
-```
+```bibtex
 @proceedings{jacob2021triscale,
   title        = {Designing Replicable Networking Experiments with 
                    TriScale},
