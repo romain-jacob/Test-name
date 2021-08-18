@@ -11,18 +11,19 @@
 
 ---
 
-When designing their performance evaluations, networking researchers often encounter questions such as: 
-- How long should a run be? 
-- How many runs to perform? 
-- How to account for the variability across multiple runs? 
-- What statistical methods should be used to analyze the data? 
+When designing their performance evaluations, networking researchers often encounter questions such as:
+
+- How long should a run be?
+- How many runs to perform?
+- How to account for the variability across multiple runs?
+- What statistical methods should be used to analyze the data?
 
 Despite the best intentions, researchers often answer these questions differently, thus impairing the replicability of evaluations and the confidence in the results.
 
 Improving the standards of replicability has recently gained traction overall, as well as within the networking community. As an important piece of the puzzle, we developed a systematic methodology that streamlines the design and analysis of performance evaluations, and we have implemented this methodology into a framework called _TriScale_.
 
 <!-- blank line -->
-<figure class="video_container" style="margin-inline-start: 0px; margin-inline-end: 0px;">
+<!--figure class="video_container" style="margin-inline-start: 0px; margin-inline-end: 0px;">
   <iframe width="500" height="340" src="https://www.youtube.com/embed/TVCbTMk64mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
@@ -31,10 +32,25 @@ Improving the standards of replicability has recently gained traction overall, a
 
 All data, code and information required to reproduce our study are openly available [on GitHub](https://github.com/romain-jacob/triscale). 
 
-We use Jupyter notebooks as wrappers for all our analyses. You can reproduce the paper results by running the notebooks locally or directly in your web-browser 
-(thanks to the amazing service provided by [MyBinder.org](https://mybinder.org/) !
+> We use Jupyter notebooks as wrappers for all our analyses. You can reproduce the paper results by running the notebooks locally or directly in your web-browser, thanks to the amazing service provided by [MyBinder.org](https://mybinder.org/)!
 
 See the [`README.md` file on GitHub](https://github.com/romain-jacob/triscale) for detailed instructions.
+
+### Presentations
+
+> Research replicability in embedded learning  
+**Upcoming** ESWEEK Education, Virtual (October 2021)  
+
+> [Tutorial: Supporting Replicable Networking Experiments with TriScale](https://youtu.be/f9k7gS-QpWI)  
+4th CPS-IoTBench Workshop, Virtual (May 2021)  
+**Upcoming** ACM SIGCOMM 2021, Virtual (August 2021)  
+
+> [IoTBench: Reproducibility challenge in wireless networking research](https://osf.io/m7a6w/)  
+5th CROSS Symposium, Virtual (October 2020)
+
+> [Confidence in experimental evaluations: Time to do better than "Believe me, it’s true!"](https://osf.io/aktn7/)  
+EWSN Conference, Lyon, France (February 2020)
+
 
 ### How to cite _TriScale_
 
